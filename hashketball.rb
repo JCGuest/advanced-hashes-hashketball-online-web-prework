@@ -175,7 +175,7 @@ def player_stats(player_name)
 game_hash.each do |place, team|
   team.each do |attribute, data|
     attribute.each do |player, x|
-  binding.pry
+    binding.pry
       end
     end
   end 
