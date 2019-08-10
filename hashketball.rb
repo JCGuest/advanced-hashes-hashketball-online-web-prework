@@ -155,8 +155,8 @@ end
 
 def player_numbers(team_name)
   game_hash.each do |place, team|
-    team.each do |attribute, data|
-      binding.pry
+    team.each do |attr
+      
     end
   end 
 end 
