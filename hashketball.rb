@@ -186,4 +186,5 @@ def player_stats(player_name)
       end
     end 
   end 
+  stats 
 end
